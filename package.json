@@ -1,0 +1,19 @@
+{
+  "name": "memory-piano",
+  "version": "1.0.0",
+  "description": "Memorize and replay notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liquitects/memory-piano.git"
+  },
+  "author": "Liquitects",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liquitects/memory-piano/issues"
+  },
+  "homepage": "https://github.com/Liquitects/memory-piano#readme"
+}
